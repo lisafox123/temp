@@ -1,0 +1,113 @@
+[
+    
+  { "type":"client_type",
+    "data":{
+      "customer_type": "知識型客戶",
+      "characteristics": {
+          "financial_goals": [
+              "資產增值",
+              "退休規劃",
+              "財務自由",
+              "風險管理"
+          ],
+          "insurance_preferences": [
+              {
+                  "preference": "保障全面",
+                  "description": "希望保險產品提供多層次、全面的保障，包含人身保險、健康險等。"
+              },
+              {
+                  "preference": "資產增值",
+                  "description": "偏好能增加資產的保險產品，如分紅保險、投資型保險。"
+              },
+              {
+                  "preference": "靈活繳費",
+                  "description": "需要靈活的繳費方式，適應不同收入流的安排。"
+              }
+          ],
+          "information_needs": [
+              "詳細的保險條款解釋",
+              "保險風險與收益的透明度",
+              "理賠流程的說明"
+          ],
+          "communication_style": [
+              "喜歡深入分析和細節解說",
+              "喜歡對比不同保險產品的條款",
+              "偏好理性、數據支持的回答"
+          ],
+          "decision_factors": [
+              "產品的長期收益潛力",
+              "保險公司的信譽和財務穩定性",
+              "產品的市場評價與客戶反饋"
+          ]
+      }
+  },
+  
+      "customer_type": "依附型客戶",
+      "characteristics": {
+          "financial_goals": [
+              "基本生活保障",
+              "穩定收入",
+              "健康保障"
+          ],
+          "insurance_preferences": [
+              {
+                  "preference": "基本保障",
+                  "description": "希望獲得最基本的生活保障和醫療保障。"
+              },
+              {
+                  "preference": "簡單明瞭的產品",
+                  "description": "偏好容易理解的保險產品，不需要複雜的條款解釋。"
+              }
+          ],
+          "information_needs": [
+              "簡單明瞭的保險產品介紹",
+              "基本的風險保障範圍",
+              "保險投保流程"
+          ],
+          "communication_style": [
+              "偏好簡單直接的溝通方式",
+              "希望能快速獲得所需資訊",
+              "對保險專業術語不太理解，需用通俗語言解釋"
+          ],
+          "decision_factors": [
+              "產品價格是否合理",
+              "保險保障範圍是否符合需求",
+              "產品的易用性"
+          ]
+      }
+  },
+  {
+      "customer_type": "被動型客戶",
+      "characteristics": {
+          "financial_goals": [
+              "避免風險",
+              "保持現狀"
+          ],
+          "insurance_preferences": [
+              {
+                  "preference": "傳統型保險",
+                  "description": "傾向於選擇傳統的保險產品，對新產品持保留態度。"
+              },
+              {
+                  "preference": "保險代理人的推薦",
+                  "description": "依賴保險代理人的建議，缺乏自我研究的動力。"
+              }
+          ],
+          "information_needs": [
+              "對保險產品的基本了解",
+              "代理人對產品的推薦意見",
+              "對保險市場變化的了解不多"
+          ],
+          "communication_style": [
+              "不太主動詢問，等待別人提供信息",
+              "對於更深入的討論不太感興趣",
+              "偏好由他人提供具體的建議"
+          ],
+          "decision_factors": [
+              "簡單明瞭的選擇",
+              "熟悉的品牌或代理人",
+              "保險的安全性和穩定性"
+          ]
+      }
+  }
+]
